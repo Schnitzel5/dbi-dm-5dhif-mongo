@@ -1,0 +1,99 @@
+[
+  {
+    "_id": "6523c1ccf8c11b3d3be2adf3",
+    "schueler": "Tim",
+    "klasse": "3AHIF",
+    "wahlen": [
+      "GAD",
+      "BAP"
+    ],
+    "notenDurchschnitt": 3.4,
+    "zuteilung": "OPS"
+  },
+  {
+    "_id": "6523c1ccf8c11b3d3be2adf4",
+    "schueler": "Tim",
+    "klasse": "3CHIF",
+    "erstwahl": "SOS",
+    "zweitwahl": "IOT",
+    "notenDurchschnitt": 3.4,
+    "zuteilung": "BAP"
+  },
+  {
+    "_id": "6523c1ccf8c11b3d3be2adf5",
+    "schueler": "Anna",
+    "klasse": "3CHIF",
+    "wahlen": [
+      "OPS",
+      "BAP"
+    ],
+    "notenDurchschnitt": 2.5,
+    "zuteilung": "GAD"
+  },
+  {
+    "_id": "6523c1ccf8c11b3d3be2adf6",
+    "schueler": "Max",
+    "klasse": "3DHIF",
+    "wahlen": [
+      "IOT",
+      "SOS"
+    ],
+    "notenDurchschnitt": 3.8,
+    "zuteilung": "IOT"
+  },
+  {
+    "_id": "6523c1ccf8c11b3d3be2adf7",
+    "schueler": "Sophie",
+    "klasse": "3BHIF",
+    "wahlen": [
+      "BAP",
+      "GAD"
+    ],
+    "notenDurchschnitt": 2,
+    "zuteilung": "BAP"
+  },
+  {
+    "_id": "6523c1ccf8c11b3d3be2adf8",
+    "schueler": "Lucas",
+    "klasse": "3AHIF",
+    "wahlen": [
+      "OPS",
+      "IOT"
+    ],
+    "notenDurchschnitt": 3.1,
+    "zuteilung": "OPS"
+  },
+  {
+    "_id": "6523c1ccf8c11b3d3be2adf9",
+    "schueler": "Elena",
+    "klasse": "3AHIF",
+    "wahlen": [
+      "GAD",
+      "IOT"
+    ],
+    "notenDurchschnitt": 2.8,
+    "zuteilung": "GAD"
+  },
+  {
+    "_id": "6523c1ccf8c11b3d3be2adfa",
+    "schueler": "Felix",
+    "klasse": "3DHIF",
+    "wahlen": [
+      "BAP",
+      "OPS"
+    ],
+    "notenDurchschnitt": 3.5,
+    "zuteilung": "BAP"
+  },
+  {
+    "_id": "6523c1ccf8c11b3d3be2adfb",
+    "schueler": "Nina",
+    "klasse": "3EHIF",
+    "wahlen": [
+      "SOS",
+      "IOT"
+    ],
+    "notenDurchschnitt": 2.9,
+    "zuteilung": "SOS"
+  }
+]
